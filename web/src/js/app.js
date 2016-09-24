@@ -2,4 +2,4 @@
 * App
 */
 
-console.log('App');
+console.log('App test');

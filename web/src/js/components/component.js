@@ -2,4 +2,4 @@
 *	Components
 */
 
-console.log('components la puta madre!!!');
+console.log('components');
